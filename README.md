@@ -1,4 +1,4 @@
-## hello👋
+## Hello👋
 # 💫 About Me:
 i am Vamshi K Gowda and studying COMPUTER SCIENCE ENGINEERING <br>in PES COLLEGE OF ENGINEERING
 
