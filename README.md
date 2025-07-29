@@ -12,6 +12,7 @@
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vamshi K Gowda)
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vamshimicromax@gmail.com) 
+ https://x.com/VamshiKGowda1
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VamshiGowda18&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VamshiGowda18&theme=dark&hide_border=true)<br/>
