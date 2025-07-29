@@ -1,6 +1,12 @@
 ## Hello👋, i'm Vamshi K Gowda
-# 💫 About Me:
-i am Vamshi K Gowda and studying COMPUTER SCIENCE ENGINEERING <br>in PES COLLEGE OF ENGINEERING
+# About Me⚡:
+🎓 CSE Student {2025–29}, PES College of Engineering, Mandya
+💻 Passionate about coding, problem-solving, and building projects
+🎯Currently Learning:
+     Python,C++ & Data Structures & Algorithms (DSA)
+
+
+
 
 
 ## 🌐 Socials:
