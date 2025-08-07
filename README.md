@@ -5,7 +5,7 @@
 💻 Passionate about coding, problem-solving, and building projects
 ⚡ Inspired by Virat Kohli’s consistency and dedication
 🎯Currently Learning:
-     Python,C++ & Data Structures & Algorithms (DSA)
+     Python,C++ and Data Structures & Algorithms (DSA).
      
 
 
