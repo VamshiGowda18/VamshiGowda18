@@ -1,9 +1,9 @@
 ## Hello👋, i'm Vamshi K Gowda
 ## Turning ideas into code while growing into a future software engineer.
 # About Me⚡:
-🎓 CSE Student {2025 – 2029}, PES College of Engineering, Mandya
-💻 Passionate about coding, problem-solving, and building projects
-⚡ Inspired by Virat Kohli’s consistency and dedication
+🎓 CSE Student {2025 – 2029}, PES College of Engineering, Mandya.
+💻 Passionate about coding, problem-solving and building projects.
+⚡ Inspired by Virat Kohli’s consistency and dedication.
 🎯Currently Learning:
      Python,C++ and Data Structures & Algorithms (DSA).
      
