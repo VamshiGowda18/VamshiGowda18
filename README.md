@@ -10,7 +10,7 @@
 
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vamshi K Gowda)
+https://www.linkedin.com/in/vamshi-k-gowda-116116371/
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vamshimicromax@gmail.com) 
  https://x.com/VamshiKGowda1
 ---
